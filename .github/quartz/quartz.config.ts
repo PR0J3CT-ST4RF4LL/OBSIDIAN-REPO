@@ -21,6 +21,7 @@ const config: QuartzConfig = {
     // baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    defaultPage: "Iterations",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

@@ -1,0 +1,15 @@
+The Iad are a secretive group originally native to Iteration =. Their primary base of operations was hidden within a large mining network in the depths of the eternal city during the events of the Iterations - Eclipsed Sun campaign, which they played little part in until the end. Approximately a third of their number were defeated at the finale, after which they relocated in small groups individually to different Iterations, and began causing trouble for the **Shatters** of those Iterations. After centuries of research, it has been found that the size of an Iad base in an Iteration is both directly proportional to the nearest few population centres and to the amount of Living Souls in the Iteration. Based on this information, it has been assumed that Iteration 1 has the largest Iad group yet found, but this information has yet to be confirmed.
+
+The Iad are known for their secretive and deadly techniques, both in their nefarious missions, and in their daily life. All captured members seem to have a device built into themselves (a result of learning Iteration ='s magic system) that allows them to kill themselves at will. These devices have been used to evade capture by **Shatters** and to plant murder evidence to the detriment of their enemies.
+
+The rank of a member of the Iad - should you be unfortunate enough to encounter one - can be deduced by their uniforms, to which they attach red bands onto to show their status. The more red bands on a member of the Iad's uniform, the higher ranking they are.
+
+The Iad's goals are somewhat of a mystery in terms of detail, but a rough idea can be assumed. From previous experiences with the Iad during Iterations - Eclipsed Sun, it has been found that they were primarily responsible for two major purposes. They were the elite 'hitmen' of **Eclipse**, and the first members of high society (in Iteration =) to be considered for higher positions such as **Vengeful** or **Shades** of **Eclipse**, performing assassinations on high-priority targets and undergoing secretive missions deep into the other Iterations, including the True Void. Their second purpose is less known, but it is theorised that they were - or are - the keepers of **Eclipse**'s spare armours, as well as their Shards and Void Uniques (if they had any)
+
+They were initially an integral part of the Eclipse Project, as some members were infused with the first collected samples of Living Soul, but aside from these members, they held no part other than overlaps with their main branches of work. This is largely due to the incident after the Iad's involvement in the project, where a squad of infused members were sent into the True Void, where they were then bloodied, and became ill with Void Corruption, which Vee refused to cure. They then spent the remainder of their lives until the Finale of Iterations: Eclipsed Sun wandering the True Void, with only a small semblance of themselves left and the will to fight all those who opposed Eclipse.
+
+Links:
+[[Iteration = (has info)]] [[The Eclipse Project (has info)]]
+
+Tags:
+#Finished 

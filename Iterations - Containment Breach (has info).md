@@ -1,0 +1,5 @@
+The Living Souls are split amongst more characters. Due to the events of the Finale, the Living Souls are strained into allowing the control of 2 characters at once. The shards of these Living Souls are separated from their primary hosts, and put into a separate Iteration, known as Iteration Primaris. Iteration Primaris is built off of an altered copy of the original Terra before The End took place, where Vee, Eclipse, and K1 never entered in humanoid forms, so no one is Powered, and the world doesn't end. Instead, the universe is overrun with anomalies which the SCP Foundation, an ever-present entity in this Iteration, must contain, as per their name.
+
+The Living Souls are allowed to form their own SCP bodies in order to fit into the world, and they will be integrated perfectly. **Vee**, **K1**, and **Eclipse**, who are all the **Shatters** of this Iteration, do not play an active role in this campaign, and can only be summoned by 'Kyuubi', another SCP that they must find if they wish to contact the **Shatters**.
+
+Links: [[Campaigns]] [[Characters Of Iterations - Containment Breach]]

@@ -1,0 +1,10 @@
+Town 11 is an inhabited zone in Iteration = which is very close to the True Void. It borders it such that when **K1** was carving their own pocket of the True Void, they came across Town 11 and decided to incorporate it into their designs. Town 11 takes the appearance of a bustling metropolis of wooden buildings, stretching far into the sky and far below the ground, for there is no firm ground in Town 11, merely large platforms and walkways. The place is teeming with magical energy from various Iterations, such that the Ministry avoids the place, because any inhabitant of Town 11 is capable of using magic nearly the match of even a **Vengeful**'s, and the civilisation is so jam-packed full of inhabitants that subduing it would be impossible.
+
+Town 11 governs itself, and many of its workers do not work in the grand factories of the rest of the Iteration, but spend their time working in lower-level establishments, as well as praising the **Shatters** of their original Iterations. The location is consumed by magical energy due to a central "well" of magical energy, protected by the city.
+
+The easiest way to visit Town 11 would be to go through **K1**'s pocket dimension void, but for many, this is not possible, so the most heavily used pathway is through the True Void. This path is incredibly dangerous, so many visitors choose to stay in Town 11, rather than brave the journey back. Other, less fortunate denizens - who cannot use the train to get into the True Void - must get taken by the **Eclipse** and then hope to make it out of the industrial brutality.
+
+Town 11 is the best place to learn any magic system, since there is at least one community from each Iteration in the place, honing their own magical talents. The least used - and highly coveted - magical system in Town 11 would be void magic - or soul magic - because it is incredibly hard to find a user. So few people use it, in fact, that there are only three known active users, since the users in Town 11 are either non-existent, subjugated, or in hiding.
+
+Links:
+[[Iteration = (has info)]]

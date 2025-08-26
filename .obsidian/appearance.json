@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#2eff31",
+  "interfaceFontFamily": "Arial Rounded MT",
+  "baseFontSize": 15,
+  "textFontFamily": "Book Antiqua",
+  "monospaceFontFamily": "Bookshelf Symbol 7",
+  "nativeMenus": false
+}

@@ -1,0 +1,4 @@
+Iteration 6 is host to a variety of planets and environments, yet all of these biomes are covered in a thick fog which lowers the temperature of the ground, causing most of the trees Iteration-wide to have thick, tough trunks with large, leafy canopies filled with dense layers of leaves, blocking a majority of light. There is a noticeable disparity in the Iteration's population compared to that of other Iterations, due to the convergent evolution of what the general public would call "Monsters"; nightmares beyond imagination which hide in the darkness of the trees and fog, picking off individuals incautious enough to stray from the light. As a result, the populations across the Iteration vary in technological aptitude, from light-rich cities spanning far into the sky to small, nomadic camps confined to the relative safety of their dwindling bonfires.
+
+Links:
+[[Iterations]] [[Iteration 6 Magic System - The Bonds]]

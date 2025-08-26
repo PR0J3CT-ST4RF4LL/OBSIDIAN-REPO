@@ -200,6 +200,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "65cd5285248ce1cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -220,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0651cd6c42fa789c",
+  "active": "831bfeeef92c241b",
   "lastOpenFiles": [
     "The Forge.md",
     "Untitled.md",

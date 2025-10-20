@@ -43,4 +43,4 @@ As a rule, no type of demon is the same as another type of demon. There are many
 High Emperor Nightmare is a hermaphroditic clutch-producing sleep paralysis demon. They have an odd relationship with their human lover, as Nightmare initially brought her to the Nightmare Realm before The End, thus saving her from death. Nightmare shares 'custody' of their lover with the first demon ever born, the female succubus Lilith. Technically speaking, their lover is also their personal slave, as she is addicted to Nightmare's saliva. Despite this, she seems perfectly happy with her position with the demonic civilisations as the 'toy' of the High Emperor. Most of the demons that make up the demonic armies actually originate from her, as she is consistently able to produce over 100 fertilised eggs per clutch, leading to fast population growth, as well as a political advantage over any 
 
 Links:
-[[The True Void Magic Systems (has info)]]
+[[The True Void Magic Systems (has info)]] [[Cross-Iterational Sapient Species]]

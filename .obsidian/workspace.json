@@ -8,7 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e3dac20129cfa9b",
+            "id": "5e1db5ef19eb850a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humans (has info).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Humans (has info)"
+            }
+          },
+          {
+            "id": "3700743307f9ee5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daemonology (has info).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daemonology (has info)"
+            }
+          },
+          {
+            "id": "03fb9c96e15e5d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Velumbrae (wip).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velumbrae (wip)"
+            }
+          },
+          {
+            "id": "98c893ba6c5289ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dragonborn (wip).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dragonborn (wip)"
+            }
+          },
+          {
+            "id": "7c369a0be3e87ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weavers (wip).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weavers (wip)"
+            }
+          },
+          {
+            "id": "6780f14127fb3927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dragons (wip).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dragons (wip)"
+            }
+          },
+          {
+            "id": "b2058be076079078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iteration 1 (has info).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iteration 1 (has info)"
+            }
+          },
+          {
+            "id": "4d9ac4614818ed04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races In Iteration 1 (has info).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Races In Iteration 1 (has info)"
+            }
+          },
+          {
+            "id": "d8f8f0ba693b6564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cross-Iterational Sapient Species.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cross-Iterational Sapient Species"
+            }
+          },
+          {
+            "id": "ae62e00849940d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iteration 0 Magic System - Equivalent Exchange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iteration 0 Magic System - Equivalent Exchange"
+            }
+          },
+          {
+            "id": "f02e276aa2842662",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +160,9 @@
               "icon": "lucide-file",
               "title": "Power Levels"
             }
-          },
-          {
-            "id": "879b2ef0b0592b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iterations"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -93,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fba3e2364098c4e0",
@@ -189,7 +316,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,16 +330,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "879b2ef0b0592b48",
+  "active": "4d9ac4614818ed04",
   "lastOpenFiles": [
-    "Voidwatchers.md",
-    "The Forge.md",
-    "Untitled.md",
-    "README.md",
+    "Cross-Iterational Sapient Species.md",
+    "Iteration 0 Magic System - Equivalent Exchange.md",
     "Power Levels.md",
-    "Races In The True Void (wip).md",
-    "Iteration 8 (wip).md",
-    "Iteration 9 (wip).md",
-    "Project Ad Astra (has info).md"
+    "Iteration 1 (has info).md",
+    "Races In Iteration 1 (has info).md",
+    "Voidwatchers.md",
+    "Races In Iteration 0 (has info).md",
+    "Races In Iteration -1.md",
+    "Humans (has info).md",
+    "Velumbrae (wip).md",
+    "Dragons (wip).md",
+    "Void Figures (has info).md",
+    "Untitled 1.md",
+    "Incogni (has info).md",
+    "Iteration 0.md",
+    "Felinae (has info).md",
+    "Owlins (has info).md",
+    "Changelings (has info).md",
+    "Elves (has info).md",
+    "Warforged (has info).md",
+    "Daemonology (has info).md",
+    "Weavers (wip).md",
+    "Dragonborn (wip).md",
+    "Levels of Existence.md",
+    "Characters Of Iterations - Containment Breach (wip).md",
+    "README.md"
   ]
 }

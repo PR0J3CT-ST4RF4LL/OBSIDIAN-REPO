@@ -23,6 +23,6 @@ Levels of Existence, or shortened to LE, define how far above the **Chain of Exi
      * Denizens – The common folk of an Iteration. They usually have no knowledge of even a Vengeful’s existence. Denizens are usually more aware of the social concepts and troubles of the region they live in than even Vengeful originating from that same region, as denizens cannot and should not trouble themselves with ideas or concepts above them, while Vengeful must understand their Shade’s - and the Shade’s Shatter’s - will.
 
 Links:
-[[Iterations]] [[Cross-Iterational Sapient Species (has info)]] [[Power Levels]]
+[[Iterations]] [[Cross-Iterational Sapient Species]] [[Power Levels]]
 Tags:
 #Finished 

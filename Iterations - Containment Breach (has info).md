@@ -2,4 +2,4 @@ The Living Souls are split amongst more characters. Due to the events of the Fin
 
 The Living Souls are allowed to form their own SCP bodies in order to fit into the world, and they will be integrated perfectly. **Vee**, **K1**, and **Eclipse**, who are all the **Shatters** of this Iteration, do not play an active role in this campaign, and can only be summoned by 'Kyuubi', another SCP that they must find if they wish to contact the **Shatters**.
 
-Links: [[Campaigns]] [[Characters Of Iterations - Containment Breach]]
+Links: [[Campaigns]] [[Characters Of Iterations - Containment Breach (wip)]]

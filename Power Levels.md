@@ -49,8 +49,6 @@ Shard Of Broken Form: + (25,000,000 - 750,000,000)
 
 * Ben: 15 + 9,000 + 9,000 + 50,000 + 50,000 = 118,015
 
-* Toby: ( ( 10 + 2,500 ) x 1.2 ) = 3,012
-
 Links:
 [[Levels of Existence]]
 
